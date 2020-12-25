@@ -1,1 +1,173 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T06:03:12.573Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.1" etag="GqkSl73kim_P8Vx7NR67" type="github"><diagram id="aTmEyoTltks4_PvgWwts">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-25T07:11:47.401Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NDDPESGlswsKTNb0NVy-" version="14.1.1" type="github">
+  <diagram id="aTmEyoTltks4_PvgWwts" name="Page-1">
+    <mxGraphModel dx="1568" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1NHvlJSlSpy9riehQKpT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-2" target="1NHvlJSlSpy9riehQKpT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-2" value="业务总览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-7" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-3" target="1NHvlJSlSpy9riehQKpT-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="260" />
+              <mxPoint x="335" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-3" value="异常/不健康业务" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-5" target="1NHvlJSlSpy9riehQKpT-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="180" />
+              <mxPoint x="335" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-5" value="接受到业务告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-6" target="1NHvlJSlSpy9riehQKpT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-6" value="进入业务列表，点击详情进入业务排障，进行对应业务排障" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="279" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-10" target="1NHvlJSlSpy9riehQKpT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-10" target="1NHvlJSlSpy9riehQKpT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-10" value="查看各业务节点在所选时间区间内发生的故障" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="379" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-14" value="追溯历史告警" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="369" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-16" target="1NHvlJSlSpy9riehQKpT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-16" value="下钻查看故障详情" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="479" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-20" target="1NHvlJSlSpy9riehQKpT-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-24" value="宕机" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1NHvlJSlSpy9riehQKpT-23">
+          <mxGeometry x="-0.6644" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-26" value="状态码报错" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-20" target="1NHvlJSlSpy9riehQKpT-22">
+          <mxGeometry x="-0.2857" y="8" relative="1" as="geometry">
+            <mxPoint x="335" y="697" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-28" value="慢事务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-20" target="1NHvlJSlSpy9riehQKpT-27">
+          <mxGeometry x="-0.3953" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-20" target="1NHvlJSlSpy9riehQKpT-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-20" value="宕机/状态码报错/&lt;br&gt;慢事务" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="577" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-22" target="1NHvlJSlSpy9riehQKpT-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-22" value="跳转到系统分层拓扑，检查资源层问题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="702" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-27" target="1NHvlJSlSpy9riehQKpT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-27" value="点击报文详情，下钻分析请求和各阶段耗时信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="702" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-30" target="1NHvlJSlSpy9riehQKpT-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-30" target="1NHvlJSlSpy9riehQKpT-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-30" value="根据网络耗时、应用处理时间得出定界结论：网络问题或者应用问题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="817" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-35" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-32" target="1NHvlJSlSpy9riehQKpT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-44" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-32" target="1NHvlJSlSpy9riehQKpT-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-32" value="定界应用问题，是否attach应用探针" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="917" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-34" value="attach应用探针，在详情页点击拓扑详情，下钻分析应用问题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1037" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-36" target="1NHvlJSlSpy9riehQKpT-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="260" />
+              <mxPoint x="335" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-36" value="业务反馈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-38" target="1NHvlJSlSpy9riehQKpT-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-38" value="追溯container、pod、主机的生命周期、告警" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="817" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-43" value="问题定界，找到对应负责人处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="927" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-65" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-62" target="1NHvlJSlSpy9riehQKpT-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-83" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-62" target="1NHvlJSlSpy9riehQKpT-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-62" value="pod是否在所选时间频繁重启" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="68.75" y="927" width="142.5" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-64" target="1NHvlJSlSpy9riehQKpT-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-64" value="查看主机资源使用情况及告警，分析pod频繁重启原因" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1037" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-68" value="查看pod事件，得出pod宕机原因，例如：pod资源分配不足，导致被驱逐" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261.25" y="1037" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-79" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-76" target="1NHvlJSlSpy9riehQKpT-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-76" value="主机资源占用高" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1140" width="150" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-78" value="定界资源问题" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-82" target="1NHvlJSlSpy9riehQKpT-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NHvlJSlSpy9riehQKpT-82" value="container流量高" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="927" width="142.5" height="73" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
