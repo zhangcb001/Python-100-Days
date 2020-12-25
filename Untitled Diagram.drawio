@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T07:11:47.401Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NDDPESGlswsKTNb0NVy-" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T07:20:39.456Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Q0xypPa09mXx66mXUcv3" version="14.1.1" type="github">
   <diagram id="aTmEyoTltks4_PvgWwts" name="Page-1">
     <mxGraphModel dx="1568" dy="972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="1NHvlJSlSpy9riehQKpT-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-2" target="1NHvlJSlSpy9riehQKpT-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1NHvlJSlSpy9riehQKpT-2" value="业务总览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1NHvlJSlSpy9riehQKpT-2" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;业务总览&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1NHvlJSlSpy9riehQKpT-7" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-3" target="1NHvlJSlSpy9riehQKpT-6">
@@ -38,17 +38,11 @@
         <mxCell id="1NHvlJSlSpy9riehQKpT-6" value="进入业务列表，点击详情进入业务排障，进行对应业务排障" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="279" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1NHvlJSlSpy9riehQKpT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-10" target="1NHvlJSlSpy9riehQKpT-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1NHvlJSlSpy9riehQKpT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-10" target="1NHvlJSlSpy9riehQKpT-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1NHvlJSlSpy9riehQKpT-10" value="查看各业务节点在所选时间区间内发生的故障" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="379" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1NHvlJSlSpy9riehQKpT-14" value="追溯历史告警" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="369" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1NHvlJSlSpy9riehQKpT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1NHvlJSlSpy9riehQKpT-16" target="1NHvlJSlSpy9riehQKpT-20">
           <mxGeometry relative="1" as="geometry" />
